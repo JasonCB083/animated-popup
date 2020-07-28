@@ -15,4 +15,5 @@ modal.addEventListener("click", (e)=> {
     return;
   }
   modal.className = "close";
+  
 })
